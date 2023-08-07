@@ -2,7 +2,7 @@
 - name: Hello World!
   hosts: all
  
-  tasks:
+  rules:
  
   - name: Hello World!
     shell: echo "Hi! EDA is working."
